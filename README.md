@@ -1,7 +1,7 @@
 # custom-quiz-timer-learnpress
 A WordPress plugin adding custom timers and anti-cheat to LearnPress quizzes
 === Custom Quiz Timer for LearnPress ===
-Contributors: yourname
+Contributors: ping-dev-ui
 Tags: learnpress, quiz, timer, anti-cheat, lms, education, gamification, elearning
 Requires at least: 6.0
 Tested up to: 6.6
