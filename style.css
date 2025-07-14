@@ -1,0 +1,17 @@
+#lp-custom-timer {
+    background: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #ccc;
+}
+#lp-timer-countdown {
+    font-size: 24px;
+    color: #ff0000; /* Red for urgency */
+    margin-right: 10px;
+}
+.timer-label {
+    font-size: 16px;
+}
+.quiz-timer-wrapper { display: none !important; } /* Hide built-in timer if needed */
